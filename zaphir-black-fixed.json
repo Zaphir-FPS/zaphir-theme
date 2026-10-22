@@ -1,0 +1,180 @@
+{
+  "name": "Zaphir Black",
+  "description": "Theme noir minimaliste pour Discord sur Revenge.",
+  "authors": [
+    {
+      "name": "Zaphir"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#080808",
+      "#080808",
+      "#080808"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#101010",
+      "#101010",
+      "#101010"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#151515",
+      "#151515",
+      "#151515"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#080808",
+      "#080808",
+      "#080808"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#101010",
+      "#101010",
+      "#101010"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#1A1A1A",
+      "#1A1A1A",
+      "#1A1A1A"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#262626",
+      "#262626",
+      "#262626"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#202020",
+      "#202020",
+      "#202020"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#242424",
+      "#242424",
+      "#242424"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#A0A0A0",
+      "#A0A0A0",
+      "#A0A0A0"
+    ],
+    "TEXT_LINK": [
+      "#D0D0D0",
+      "#D0D0D0",
+      "#D0D0D0"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#B8B8B8",
+      "#B8B8B8",
+      "#B8B8B8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D0D0D0",
+      "#D0D0D0",
+      "#D0D0D0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#666666",
+      "#666666",
+      "#666666"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#B8B8B8",
+      "#B8B8B8",
+      "#B8B8B8"
+    ],
+    "BORDER_STRONG": [
+      "#303030",
+      "#303030",
+      "#303030"
+    ],
+    "BORDER_SUBTLE": [
+      "#202020",
+      "#202020",
+      "#202020"
+    ],
+    "INPUT_BACKGROUND": [
+      "#101010",
+      "#101010",
+      "#101010"
+    ],
+    "BACKGROUND_MENTION": [
+      "#202020",
+      "#202020",
+      "#202020"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#242424",
+      "#242424",
+      "#242424"
+    ],
+    "CHAT_BACKGROUND": [
+      "#000000",
+      "#000000",
+      "#000000"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#E6E6E6",
+    "PRIMARY_300": "#CCCCCC",
+    "PRIMARY_400": "#A6A6A6",
+    "PRIMARY_500": "#808080",
+    "PRIMARY_600": "#595959",
+    "PRIMARY_630": "#303030",
+    "PRIMARY_645": "#242424",
+    "PRIMARY_660": "#1A1A1A",
+    "PRIMARY_700": "#101010",
+    "PRIMARY_730": "#080808",
+    "PRIMARY_800": "#050505",
+    "PRIMARY_830": "#030303",
+    "PRIMARY_860": "#000000",
+    "PRIMARY_900": "#000000",
+    "PRIMARY_1000": "#000000",
+    "BRAND_260": "#B0B0B0",
+    "BRAND_360": "#999999",
+    "BRAND_500": "#808080",
+    "BRAND_560": "#737373",
+    "BRAND_600": "#666666",
+    "BRAND_700": "#4D4D4D",
+    "WHITE": "#FFFFFF",
+    "BLACK": "#000000"
+  },
+  "background": {
+    "blur": 0,
+    "url": "",
+    "alpha": 0.0,
+    "color": "#000000"
+  },
+  "fonts": {}
+}
